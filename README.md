@@ -13,7 +13,6 @@ Este proyecto es un chatbot interactivo construido con Gradio y Python. Utiliza 
 1.  **Clona el repositorio:**
     ```bash
     git clone https://github.com/KimetzL/ChatbotDFB.git
-    cd nombre-de-tu-repositorio
     ```
 2.  **Obtén tu token de Hugging Face:**
     * Ve a [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) y crea un token de lectura (Read).
