@@ -1,6 +1,6 @@
 # Chatbot de la Diputación Foral de Bizkaia
 
-Este proyecto es un chatbot interactivo construido con Gradio y Python. Utiliza modelos de Hugging Face para buscar información sobre Ayuntamientos, Departamentos y Trámites, basándose en datos locales.
+Este proyecto es un chatbot interactivo construido con Gradio y Python. Utiliza un modelo de DeepSeek de Hugging Face para buscar trámites y se basa en 2 archivos para plasamar información sobre ayuntamientos y departamentos.
 
 ## Características
 
