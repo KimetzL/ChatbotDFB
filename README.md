@@ -12,24 +12,21 @@ Este proyecto es un chatbot interactivo construido con Gradio y Python. Utiliza 
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-de-tu-repositorio.git](https://github.com/tu-usuario/nombre-de-tu-repositorio.git)
+    git clone https://github.com/KimetzL/ChatbotDFB.git
     cd nombre-de-tu-repositorio
     ```
 2.  **Obtén tu token de Hugging Face:**
     * Ve a [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) y crea un token de lectura (Read).
-3.  **Ejecuta el chatbot:**
-    ```bash
-    python chatbotGradioGPT3.py
-    ```
+3.  **Ejecuta setup_chatbot.bat una vez instalado Python:**
     El chatbot se abrirá en tu navegador en `http://127.0.0.1:7860`.
 
 ## Uso del Chatbot
 
 Puedes consultar información usando los siguientes formatos:
 
-* **Ayuntamiento:** `Ayuntamiento: Bilbao`, `Municipio = Getxo`
-* **Departamento:** `Departamento: Acción Social`, `Ministerio = Hacienda`
-* **Trámite:** `Trámite: Modelo 561. Impuesto sobre la cerveza`, `Procedimiento = Reversión de expropiaciones`
+* **Ayuntamiento:** `Ayuntamiento: Bilbao`, `Municipio = Getxo`, `Pueblo : Galdakao`
+* **Departamento:** `Departamento: Acción Social`, `Ministerio = Hacienda`, `Organismo = Turismo`
+* **Trámite:** `Trámite: Modelo 561. Impuesto sobre la cerveza`, `Procedimiento = Reversión de expropiaciones`, `Servicio: Solicitud de certificado de Residencia Fiscal`
 
 ---
 ### Aviso Importante:
