@@ -18,6 +18,7 @@ Este proyecto es un chatbot interactivo construido con Gradio y Python. Utiliza 
 2.  **Obtén tu token de Hugging Face:**
     * Ve a [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens) y crea un token de lectura (Read).
 3.  **Ejecuta setup_chatbot.bat una vez instalado Python:**
+    Ahi te pedira el Token de HF y abrira directamente el chatbot.
     El chatbot se abrirá en tu navegador en `http://127.0.0.1:7860`.
 
 ## Uso del Chatbot
